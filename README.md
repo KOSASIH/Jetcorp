@@ -1,2 +1,2 @@
 # Jetcorp
-Jetcorp transportation repository. 
+Jetcorp public transportation service. 
